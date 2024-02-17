@@ -1,6 +1,6 @@
 # Deploy a Static Website on AWS
 
-![Alt text](Architectural-Diagram.png)
+![Alt text](ArchitecturalDiagram.png)
 
 ## Project Overview
 This Cloud Project involves hosting a static HTML web app on AWS. The architecture utilizes various AWS services and resources, providing high availability, fault tolerance, and security measures.
