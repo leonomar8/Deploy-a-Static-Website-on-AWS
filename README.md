@@ -1,5 +1,6 @@
 # Deploy a Static Website on AWS
 
+
 ![Alt text](Architectural-Diagram.png)
 
 ## Project Overview
