@@ -52,4 +52,4 @@ systemctl start httpd
 
 ## Additional Resources
 - AWS Documentation: [EC2 User Guide](https://docs.aws.amazon.com/ec2/index.html)
-- GitHub Repository for Webfiles: [leonomar8/deploy-a-static-web-site](https://github.com/leonomar8/Deploy-a-Static-Website-on-AWS)
+- GitHub Repository for Webfiles: [leonomar8/deploy-a-static-web-site-on-AWS](https://github.com/leonomar8/Deploy-a-Static-Website-on-AWS)
