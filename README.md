@@ -24,7 +24,7 @@ The project architecture includes:
 - **EC2 Instance to Create AMI:** Once the website is installed, the EC2 instance is used to create an Amazon Machine Image (AMI) for future instances.
 
 ## Deployment Script
-Below is the bash script used to deploy the web app on an EC2 instance:
+Below is the bash script used to deploy the web app on an EC2 instance (Amazon Linux 2):
 
 ```bash
 #!/bin/bash
@@ -56,3 +56,20 @@ systemctl start httpd
 ## Additional Resources
 - AWS Documentation: [EC2 User Guide](https://docs.aws.amazon.com/ec2/index.html)
 - GitHub Repository for Webfiles: [leonomar8/deploy-a-static-web-site-on-AWS](https://github.com/leonomar8/Deploy-a-Static-Website-on-AWS)
+
+Regular **Markdown** here.
+
+<div hidden>
+```
+@startuml firstDiagram
+
+Alice -> Bob: Hello
+Bob -> Alice: Hi!
+		
+@enduml
+```
+</div>
+
+![](firstDiagram.svg)
+
+Some more markdown.
